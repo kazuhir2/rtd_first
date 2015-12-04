@@ -11,7 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+日本語テスト
 
+日本語テストく
 
 Indices and tables
 ==================
